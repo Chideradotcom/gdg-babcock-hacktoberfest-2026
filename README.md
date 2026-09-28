@@ -81,6 +81,7 @@ The backend reads its settings from environment variables. For the complete loca
 ## Repositories to Contribute To
 
 - [GDG AI Grader](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2026): the project in this repository.
+- [English to French Neural Machine Translation](https://github.com/GDGBabcockUniversity/english_to_french_neural_machine_translation): a GDG Babcock project for neural machine translation from English to French.
 - More GDG Babcock community projects may be announced during the event.
 
 ## Safety and Review
