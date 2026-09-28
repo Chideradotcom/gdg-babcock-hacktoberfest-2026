@@ -2,7 +2,7 @@
 
 ## Hacktoberfest Open Source Contributions Welcome
 
-Welcome to the GDG AI Grader project from GDG on Campus Babcock University!
+Welcome to the official Hacktoberfest repository from [GDG on Campus Babcock University](https://gdgbabcock.com)!
 
 This repository is part of our community's Hacktoberfest work. Whether this is your first open source contribution or you already have experience, you are welcome to learn, build, review, document, test, and contribute with us.
 
