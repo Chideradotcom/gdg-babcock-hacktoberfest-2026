@@ -10,6 +10,11 @@ This repository is part of our community's Hacktoberfest work. Whether this is y
 
 Hacktoberfest is a global celebration of open source that runs throughout October. The 2026 program highlights hands-on learning, experimentation, and building with open-source AI and open-weight models. The format and participation details can change, so check the [official Hacktoberfest website](https://hacktoberfest.com/) and [FAQ](https://hacktoberfest.com/questions/) for the current guidance.
 
+## Repositories to Contribute To
+
+- [GDG AI Grader](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2026): Main project repository.
+- [English to French Neural Machine Translation](https://github.com/GDGBabcockUniversity/english_to_french_neural_machine_translation): Neural machine translation from English to French.
+
 ## About This Project
 
 GDG AI Grader is an open-source exam grading assistant. It helps educators review AI-suggested grades and feedback; a human administrator remains responsible for every final grade.
@@ -77,12 +82,6 @@ uvicorn app.main:app --reload
 ```
 
 The backend reads its settings from environment variables. For the complete local workflow, use Docker Compose from the repository root, which supplies the database URL and development settings.
-
-## Repositories to Contribute To
-
-- [GDG AI Grader](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2026): the project in this repository.
-- [English to French Neural Machine Translation](https://github.com/GDGBabcockUniversity/english_to_french_neural_machine_translation): a GDG Babcock project for neural machine translation from English to French.
-- More GDG Babcock community projects may be announced during the event.
 
 ## Safety and Review
 
